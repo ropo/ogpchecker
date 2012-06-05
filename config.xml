@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets" id="https://addons.opera.com/extensions/details/ogp-checker/" version="1.0.1">
+  <name>OGP Checker</name>
+  <author href="http://twitter.com/#!/ropopo/">ropo</author>
+  <icon src="icons/icon-64.png"/>
+  <update-description href="https://extension-updates.opera.com/api/w3c-wd1/update/808f3d90-4359-433e-8c45-b8d1280705cf/"/>
+  <description xml:lang="ja">表示ページをFacebookのオブジェクトデバッガーでチェックする</description>
+</widget>
